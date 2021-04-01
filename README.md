@@ -1,0 +1,2 @@
+# Predictive-Analytics-ML-regression-
+Mobicom is concerned that the market environment of rising churn rates and declining ARPU will hit them hard as churn rate at Mobicom is relatively high. The management team is keen to take initiatives on this front. One of these is to roll out targeted proactive retention programs,  which include usage enhancing marketing programs to increase minutes of usage (MOU),  rate plan migration, and a bundling strategy among others.
